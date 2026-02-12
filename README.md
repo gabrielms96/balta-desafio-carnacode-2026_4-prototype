@@ -1,4 +1,4 @@
-![CR-3](https://github.com/user-attachments/assets/485b7ff1-c098-40bf-93b4-00058c8729a9)
+![CR-4](https://github.com/user-attachments/assets/d96fdc78-1ca6-4bc0-afc6-eee0d583c796)
 
 ## 🥁 CarnaCode 2026 - Desafio 04 - Prototype
 
