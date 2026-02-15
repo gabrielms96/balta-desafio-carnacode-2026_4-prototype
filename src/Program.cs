@@ -1,7 +1,7 @@
-﻿using DesignPatternChallengPrototype.ConcretePrototype;
-using DesignPatternChallengPrototype.Service;
+﻿using DesignPatternChallengePrototype.ConcretePrototype;
+using DesignPatternChallengePrototype.Service;
 
-namespace DesignPatternChallengPrototype
+namespace DesignPatternChallengePrototype
 {
     class Program
     {

@@ -1,4 +1,4 @@
-﻿namespace DesignPatternChallengPrototype.Interface
+﻿namespace DesignPatternChallengePrototype.Interface
 {
     public interface IPrototype
     {

@@ -1,6 +1,6 @@
-﻿using DesignPatternChallengPrototype.Interface;
+﻿using DesignPatternChallengePrototype.Interface;
 
-namespace DesignPatternChallengPrototype.ConcretePrototype
+namespace DesignPatternChallengePrototype.ConcretePrototype
 {
     public class Section : IPrototype
     {

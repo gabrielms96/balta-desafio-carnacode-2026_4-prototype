@@ -1,6 +1,6 @@
-﻿using DesignPatternChallengPrototype.ConcretePrototype;
+﻿using DesignPatternChallengePrototype.ConcretePrototype;
 
-namespace DesignPatternChallengPrototype.Service
+namespace DesignPatternChallengePrototype.Service
 {
     public class DocumentService
     {
